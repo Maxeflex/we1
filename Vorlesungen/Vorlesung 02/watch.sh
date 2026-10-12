@@ -1,0 +1,1 @@
+typst watch main.typ "Vorlesung 02.pdf"
