@@ -35,7 +35,7 @@
     ),
     [Umfang], [*MVP-Logik* — bewusst klein, aber vollständig und korrekt],
     [Teamgröße], [Einzelarbeit oder *Gruppenarbeit (max. 3 Personen)* — bei Gruppen: einzelne Belegbestandteile markieren],
-    [Zeitraum], [Abgabe am *08.02.2026*],
+    [Zeitraum], [Abgabe am *08.02.2027*],
     [Frontend], [Möglichst Vanilla HTML/CSS/JS],
     [Backend], [Kleiner Webserver: Java mit JDK HttpServer. Frameworks nur nach Absprache mit erweitertem Belegumfang zu Funktionalitäten],
     [Datenbank], [Relational: SQLite, PostgreSQL oder MySQL],

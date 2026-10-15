@@ -5,7 +5,7 @@
 == Rückblick
 
 #slide(align: horizon)[
-  *Vorlesung 1:* URL $arrow$ DNS $arrow$ HTTP-Request $arrow$ *Response-Body ist da*  
+  *Vorlesung 1:* URL $arrow$ DNS $arrow$ HTTP-Request $arrow$ *Response-Body ist da*  \
   Der Server hat HTML geschickt. *Was macht der Browser daraus?*
 ]
 
