@@ -14,7 +14,7 @@
   
   set heading(numbering: none)
   show heading.where(level: 1): set text(secondary)
-   show heading.where(level: 2): set text(secondary)
+  show heading.where(level: 2): set text(secondary)
 
   set figure(gap: 15pt)
 
@@ -99,7 +99,7 @@
   doc
 }
 
-#let task(name: str, content) = block(breakable: false)[
+#let task(name: str, breakable: false, content) = block(breakable: breakable)[
   = #name
   #content
 ]
