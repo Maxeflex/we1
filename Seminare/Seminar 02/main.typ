@@ -24,7 +24,7 @@
     - Ein Bild
   2. Baue ein Kontaktformular mit Feldern für Name, E-Mail und Nachricht (achte auf korrekte `label`-Verwendung)
   3. Erstelle eine Tabelle mit dem Seminarplan (Zeit, Thema, Raum) mit `thead`, `tbody`
-  4. Strukturiere eine Seite nur mit semantischen Elementen (`nav`, `article`, `section`, `aside`, `figure`)
+  // 4. Strukturiere eine Seite nur mit semantischen Elementen (`nav`, `article`, `section`, `aside`, `figure`)
 ]
 
 #task(name: "CSS")[
