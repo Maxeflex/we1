@@ -16,7 +16,7 @@
       "age": 25,
       "hobbies": ["Lesen", "Programmieren"],
       "address": {
-        "city": "Görlitz",
+        "city": "Görlitz"
       }
     }
   ```
@@ -60,7 +60,7 @@
   ```javascript
     const obj = { name: "Alex", age: 25 };
     const jsonString = JSON.stringify(obj);
-    // '{"name": "Alex", "age": 25}'
+    // '{"name":"Alex","age":25}'
     const parsedObj = JSON.parse(jsonString);
     // {name: "Alex", age: 25}
   ```

@@ -67,7 +67,7 @@
   *Vorteil*:
   - Browser übernimmt UI (rote Umrandung, Tooltip-Fehlermeldung) und Logik
   *Nachteil*:
-  - Standard-Fehlermeldung sind nicht anpassbar
+  - Standard-Fehlermeldung sind nicht anpassbar (außer mit Constraint-Validation-API)
   - Oft inkonsistent mit dem restlichen Design
   - Reicht bei großen Projekten selten aus
 ]
@@ -101,7 +101,7 @@
       const password = form.password.value;
       const confirm = form.passwordConfirm.value;
 
-      if (password != confirm) {
+      if (password !== confirm) {
         event.preventDefault(); // verhindert Absenden
         showError("Passwörter stimmen nicht überein");
       }
