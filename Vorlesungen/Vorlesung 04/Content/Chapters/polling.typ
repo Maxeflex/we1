@@ -7,7 +7,7 @@
 #slide(align: horizon)[
   - HTTP ist ein *Request-Response-Protokoll*: Der Client fragt, der Server antwortet
   - Der Server kann von sich aus *nichts* an den Browser schicken
-  - Frage: Wie erfährt die Seite von neuen daten (Chatnachricht, Benachrichtigung, Auftragsstatus)?
+  - Frage: Wie erfährt die Seite von neuen Daten (Chatnachricht, Benachrichtigung, Auftragsstatus)?
 
   Drei Ansätze mit steigender Komplexität:
   #table(
