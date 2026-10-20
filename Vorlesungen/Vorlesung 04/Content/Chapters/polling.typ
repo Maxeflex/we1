@@ -89,7 +89,7 @@
 
   *Nachteile*
   - Latenz bis zum Intervall (bei 5s im Schnitt 2.5s Verzögerung)
-  - Viele unnötige Requests, wenn sich elten etwas ändert
+  - Viele unnötige Requests, wenn sich selten etwas ändert
   - Kurzes Intervall = Extra Last auf Server und Netz
   - Langes Intervall = Träge UI
 
